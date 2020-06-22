@@ -8,7 +8,7 @@ function App() {
    //const name="Hello World. Shafiq"
    return (
      <div className="App"> 
-        <h1>Hello World from shafiq</h1>
+        <h1 className="AppHeader" >Hello World from shafiq</h1>
         <Dinner dishName="Chicken Karrahi" sweetName="Kheer"/>
      </div>
                  
